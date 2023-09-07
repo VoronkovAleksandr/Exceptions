@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ed0eea-faf7-4797-886f-bab2668713ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork001/Task001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork001/Task002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork001/Task003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork002/Task001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork002/Task002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork002/Task003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork002/Task004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWorks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+    <list default="true" id="93ed0eea-faf7-4797-886f-bab2668713ac" name="Changes" comment="HomeWork002 Completed">
+      <change afterPath="$PROJECT_DIR$/HomeWork003/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork003/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork003/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Учеба/Exceptions/HomeWorks/HomeWork003"
   }
-}</component>
-  <component name="RunManager" selected="Application.Task004">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Учеба\Exceptions\HomeWorks\HomeWork003" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HomeWork002.Task001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork002.Task001" />
       <module name="HomeWorks" />
@@ -89,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWork001.Task003" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork003.Main" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HomeWork001.*" />
+          <option name="PATTERN" value="HomeWork003.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task004" />
         <item itemvalue="Application.HomeWork002.Task003" />
         <item itemvalue="Application.HomeWork002.Task002" />
         <item itemvalue="Application.HomeWork002.Task001" />
-        <item itemvalue="Application.Task003" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1693372651525</updated>
     </task>
+    <task id="LOCAL-00001" summary="HomeWork002 Completed">
+      <created>1693650717498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693650717498</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,5 +151,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWork002 Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork002 Completed" />
   </component>
 </project>
